@@ -1,6 +1,6 @@
 # delivery_app
 
-A new Flutter project.
+Delivery APP with GetX (for testing purpose)
 
 ## Getting Started
 
